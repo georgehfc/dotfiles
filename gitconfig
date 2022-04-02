@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = george_hfc@yahoo.com.br
+	name = George Chaves
